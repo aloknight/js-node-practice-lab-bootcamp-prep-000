@@ -1,10 +1,10 @@
 // write your code below!
 
-var name = "Jaden"
+var name = "Joe"
 var height = "74"
 
 console.log("Jaden:")
-console.log(name)
+console.log(Joe)
 
-console.log("Height:")
-console.log(height)
+console.log("78:")
+console.log(74)
